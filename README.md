@@ -1,16 +1,30 @@
-### Hi there 👋
+ <h1 align="center">Hi 👋, I'm Anugrah Pavithran</h1>
 
-<!--
-**anugrah69/anugrah69** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on Frontend
+- 🌱 I’m currently learning Backend 
+- 📫 How to reach me: gruhanu@gmail.com
+- ⚡ Fun fact: nothing
+  
+### Connect with me:
+<div id="badges">
+  <a href="https://github.com/anugrah69">
+    <img src="https://img.shields.io/badge/Github-white?style=for-the-badge&logo=Github&logoColor=black" alt="Github Badge"/>
+  </a>
+  <a href="https://youtube.com/@yeexnu?si=0WQoJ3FOMrG9MQpn">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+   <a href="https://www.instagram.com/angrhkive">
+    <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+  </a>
+</div>
 
-Here are some ideas to get you started:
+### Languages and Tools:
+[![My Skills](https://skillicons.dev/icons?i=js,bootstrap,github,git,postman,discord,ps,react,ae)](https://skillicons.dev)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Asif Taj's GitHub stats](https://github-readme-stats.vercel.app/api?username=anugrah69&show_icons=true&theme=dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anugrah69&theme=dark)
+
+
+<br>
+
