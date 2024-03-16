@@ -26,6 +26,9 @@
 <a href=" " target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/Game%20Icons/Xbox.png" height="30" alt="Xbox logo"/></a> 
 <a href="" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/Game%20Icons/Steam.png" height="30" alt="Steam logo"/></a>
 
+[img src="https://spotify-now-playing-mu-three.vercel.app/api/spotify-playing" alt="codeSTACKr spotify playing" width="350" />](https://open.spotify.com/user/iv162zjryhtz3065e2opq62ct)
+
+
 
 
 
