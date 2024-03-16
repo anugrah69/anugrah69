@@ -29,7 +29,7 @@
 
 
 &nbsp;<div align="center">
-  [![Spotify](https://anugrah69.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/iv162zjryhtz3065e2opq62ct)
+  [!<img src="https://i.pinimg.com/originals/5c/63/8d/5c638d35b9b92257cd19fd06f6c90298.jpg" alt="codeSTACKr spotify playing" width="350" />(https://anugrah69.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/iv162zjryhtz3065e2opq62ct)
 
   &nbsp;<div align="center">
   [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/omnitenebris)
