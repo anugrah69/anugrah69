@@ -27,7 +27,9 @@
 <a href="" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/Game%20Icons/Steam.png" height="30" alt="Steam logo"/></a>
 
 
-[![Spotify](https://anugrah69.vercel.app/api/spotify)](https://open.spotify.com/user/iv162zjryhtz3065e2opq62ct)
+
+
+  [![Spotify](https://anugrah69.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/v162zjryhtz3065e2opq62c)
 
 
 
