@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on Frontend
 - 🌱 I’m currently learning Backend 
 - 📫 How to reach me: gruhanu@gmail.com
-- ⚡ Fun fact: nothing
+- ⚡ Fun fact: i edit videos sometimes.
   
 ### Connect with me:
 <div id="badges">
